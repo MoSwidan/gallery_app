@@ -1,16 +1,16 @@
-# gallery_app
+# Gallery App
 
-A new Flutter project.
+A simple Flutter application that allows users to pick and display multiple images from their device's gallery.
 
-## Getting Started
+## Features
+- Display images in a ListView.
+- Pick multiple images from the device gallery.
 
-This project is a starting point for a Flutter application.
+## Permissions
+- `READ_EXTERNAL_STORAGE`: To access the device's gallery.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Run `flutter run` to start the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
